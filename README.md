@@ -32,7 +32,7 @@ Before using this script, ensure you have the following:
    
     ```bash
     git clone https://github.com/GadagojuShiva/AWS_Resource_Tracking_Project
-    cd aws-resource-tracking
+    cd AWS_Resource_Tracking_Project
     ```
 
 2. **Run the Script:**
