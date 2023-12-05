@@ -31,7 +31,7 @@ Before using this script, ensure you have the following:
 1. **Clone the Repository:**
    
     ```bash
-    git clone https://github.com/gadagojushiva/aws-resource-tracking.git
+    git clone https://github.com/GadagojuShiva/AWS_Resource_Tracking_Project
     cd aws-resource-tracking
     ```
 
