@@ -2,7 +2,8 @@
 
 ## Overview
 This project is a simple Bash script to track resources in an AWS account. It lists information about EC2 instances, S3 buckets, Lambda functions, and IAM users.
-
+## Architecture
+![Teaser](./Architecture.jpg)
 ## Prerequisites
 
 Before using this script, ensure you have the following:
